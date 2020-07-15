@@ -2,9 +2,8 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/mt hood.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I'm a Computer Science student at Southern New Hampshire University. Since entering the program I have learned a lot of new skills and concepts. I have come to really enjoy working with Linux, and databases. I am now an aspiring database designer/developer, and look forward to becoming a database administrator after several years of experience.
 
-Etc, etc, etc
