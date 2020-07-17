@@ -1,7 +1,7 @@
 ---
 layout: posts
-permalink: /data-wrangling/
-title: "Data Wrangling projects"
+permalink: /cs-projects/
+title: "Computer Science Projects"
 author_profile: true
 header:
   image: "/images/austin.jpg"
