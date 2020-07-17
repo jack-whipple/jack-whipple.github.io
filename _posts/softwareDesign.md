@@ -1,6 +1,6 @@
 ---
 title: "Software Design/Engineering Artifact"
-date: 2018-01-28
+date: 2020-07-17
 tags: [software design, engineering, computer science, raspberrypi, java]
 header:
   image: "/images/perceptron/percept.jpg"
@@ -49,8 +49,4 @@ head(df)
 
 Here's some inline code `x+y`.
 
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
 
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
