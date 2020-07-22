@@ -4,7 +4,7 @@ date: 2020-07-17
 tags: [computer science, coding, code review]
 driveId: putYourIDHere
 header:
-  image: "/images/code-review.png"
+  image: "/images/code-review2.png"
 excerpt: "Computer Science, Python, RaspberryPi"
 ---
 
