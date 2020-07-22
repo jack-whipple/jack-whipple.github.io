@@ -4,7 +4,7 @@ date: 2020-07-17
 tags: [computer science, coding, code review]
 driveId: putYourIDHere
 header:
-  image: "/images/wetSpec_weatherStation.png"
+  image: "/images/code-review.png"
 excerpt: "Computer Science, Python, RaspberryPi"
 ---
 
