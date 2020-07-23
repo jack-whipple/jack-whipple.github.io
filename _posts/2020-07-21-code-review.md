@@ -4,7 +4,7 @@ date: 2020-07-17
 tags: [computer science, coding, code review]
 driveId: 1q2hE-_20m8FtnMF8C3w6yBg_RVxU5-tL/preview
 header:
-  image: "/images/code_review.png"
+  image: "/images/code_review3.png"
 excerpt: "Computer Science, Python, RaspberryPi, Java, JavaScript, MySQL"
 ---
 
