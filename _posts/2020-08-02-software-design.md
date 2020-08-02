@@ -3,7 +3,7 @@ title: "Software Design/Engineering Artifact"
 date: 2020-08-02
 tags: [software design, engineering, computer science, raspberrypi, java]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/perceptron/weatherStation.jpg"
 excerpt: "Software Design, Engineering, Computer Science, RaspberryPi, Java"
 ---
 
