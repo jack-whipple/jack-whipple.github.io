@@ -3,7 +3,7 @@ title: "Software Design/Engineering Artifact"
 date: 2020-08-02
 tags: [software design, engineering, computer science, raspberrypi, java]
 header:
-  image: "/images/perceptron/weatherStation.jpg"
+  image: "/images/weatherStation.jpg"
 excerpt: "Software Design, Engineering, Computer Science, RaspberryPi, Java"
 ---
 
@@ -14,7 +14,7 @@ This project is my Software Design and Engineering Artifact for CS 499. This is 
 For the CS 499 Software Design and Engineering artifact enhancement, I chose to rewrite this program in a different language. As I mentioned, this program was orginally written in Python, but Below you will find the Java code used to write the program.
 
 ### Software Design and Engineering Artifact:
-```Java
+```java
 /*
  * **********************************************************************
  * PROJECT       :  GrovePi WetSpec Weather Station
