@@ -1,5 +1,5 @@
 ---
-title: "Software Design/Engineering Artifact"
+title: "Algorithms and Data Structures Artifact"
 date: 2020-08-02
 tags: [algorithms, data structures, computer science, javascript, html]
 header:
