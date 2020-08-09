@@ -1,9 +1,9 @@
 ---
 title: "Algorithms and Data Structures Artifact"
-date: 2020-08-02
+date: 2020-08-09
 tags: [algorithms, data structures, computer science, javascript, html]
 header:
-  image: "/images/weatherStation.jpg"
+  image: "/images/js.jpg"
 excerpt: "Algorithms, Data Structures, Computer Science, JavaScript, HTML"
 ---
 
