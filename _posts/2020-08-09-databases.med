@@ -15,7 +15,7 @@ by adding advanced MySQL concepts. The advanced concepts I added are MySQL views
 and I added full-text search to the images table to allow a user to more easily search for an image name or location based on a key word.
 
 ### Databases Artifact:
-```sql
+```mysql
 /* Orginally created by Jack Whipple for DAD 220 (Introduction to SQL). Created in Dec 2018.
  * Updated August 2nd, 2020 by Jack Whipple for CS 499 (Computer Science Capstone).
  */
