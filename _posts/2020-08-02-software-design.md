@@ -7,7 +7,9 @@ header:
 excerpt: "Software Design, Engineering, Computer Science, RaspberryPi, Java"
 ---
 
-### <p align="center">Software Design/Engineering Narrative</p>
+<p align="center">
+	### Software Design/Engineering Narrative
+</p>
 
 The purpose of this narrative is to reflect on the artifact I selected for this category and the process I experienced in creating and it. Throughout this narrative I will describe the artifact I selected, explain why its inclusion in my ePortfolio is justified, how I am meeting course outcomes with this artifact, and finally reflect on the process of creating this artifact and share the lessons and challenges I had while working on this project.
 
