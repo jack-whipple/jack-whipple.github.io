@@ -7,12 +7,22 @@ header:
 excerpt: "Databases, Computer Science, MySQL"
 ---
 
-Greetings!
+<h3><p align="center">Databases Artifact Narrative</p></h3>
 
-This project is my Databases Artifact for CS 499. This program was orginally created to demonstrate my ability to use basic MySQL commands to perform CRUD operations on a database for a fictitious secnario.
-The orginal .sql file could be excuted in any terminal running MySQL and after execution would perform CRUD operations, and then perform three different querries. For my CS 499 enhancement I decided to improve the .sql file
-by adding advanced MySQL concepts. The advanced concepts I added are MySQL views, and MySQL Full-text search. I made the three original queries into views so that a user could more easily run the queries over and over in the future,
-and I added full-text search to the images table to allow a user to more easily search for an image name or location based on a key word.
+The purpose of this narrative is to reflect on the artifact I selected for this category and the process I experienced in creating and it. Throughout this narrative I will describe the artifact I selected, explain why its inclusion in my ePortfolio is justified, how I am meeting course outcomes with this artifact, and finally reflect on the process of creating this artifact and share the lessons and challenges I had while working on this project.
+
+##### Describe the Artifact
+The artifact I chose for this category is a MySQL program (now called CS 499 Databases.sql) that comes from the SNHU class DAD 220: Introduction to SQL. I originally created this artifact in 2018, and it was designed for a scenario in which I was tasked with performing CRUD operations for a messaging database that included 4 different tables. The original file already accounts for the tables person and contact_list already existing prior to execution of this .sql file. This MySQL program focuses on Altering a table, updating a table, deleting data from a table, creating two new tables, and performing three different queries.
+
+##### Justify Artifact Inclusion
+I chose this artifact for my ePortfolio because it aligns with basic Database principles and demonstrates MySQL advanced concepts. This program uses standard MySQL commands to store and manipulate data, and demonstrates my ability to work with and develop a database that includes multiple tables with various column fields that are used to store and manipulate data. This artifact also shows my ability to perform queries on the database in order to perform a search of information based on specific requirements. That was specifically noticeable in the query to find messages with at least one image attached. The enhancements I made to this artifact show the ability to employ advanced MySQL concepts to the database in order to make it more manageable and to give it more functionality for future use. The enhanced version of this program has changed the original queries into MySQL Views so that the queries can easily be repeated in the future by only running a query in the form of SELECT * FROM [database view name], and the image table was altered to have full-text indexing so that full-text searches could be performed.
+
+##### Course Objectives
+The enhancements I made to this artifact have met course objectives that I had planned on in the ePortfolio selection journal. The enhancements I implemented demonstrates my ability to use innovative skills and techniques for implementing database solutions. This was specifically addressed by the MySQL command line statements that perform CRUD operations in the messaging database, and the advanced MySQL concepts show the ability to implement advanced database solutions to achieve project goals. The enhanced artifact also demonstrates my ability to program solutions to solve problems involving storing, manipulating, or accessing data. This was demonstrated by my use of creating the image and message_image tables, Altering the person and image tables, updating the person table, and deleting a person from the person table. Finally, my use of MySQL Views and MySQL Full-Text shows a more advanced way of accessing the data stored within the database.
+
+##### Artifact Reflection
+I love working with databases, and I am always excited to learn new ideas and concepts in relation to database development and management. This artifact was the easiest of the three for me to enhance, and I did not encounter any challenges or difficulties in enhancing the program. While simple, the advanced concepts I used to enhance this program are not about the complexity in the written command statements, but more about the advanced functionality and enhancement it brings to users. I learned that these two enhancements make it easier for users to perform database operations, and sometimes enhancing a project is not all about what you write in the script, but the program’s behavior and functionality for a user. This program was enhanced to make repeated queries easier for users, and to give users the ability to search for data based on key words rather than exact values. This type of search would be very valuable when searching through documents that contain a lot of text-based values in their columns. While this artifact was not very complicated to enhance it was favorite artifact to work on for this capstone course.
+
 
 ### Databases Artifact:
 ```sql
