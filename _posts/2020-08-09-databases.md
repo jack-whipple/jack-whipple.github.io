@@ -3,7 +3,7 @@ title: "Databases Artifact"
 date: 2020-08-09
 tags: [databases, computer science, mysql]
 header:
-  image: "/images/mysql.png"
+  image: "/images/mysql_table.png"
 excerpt: "Databases, Computer Science, MySQL"
 ---
 
