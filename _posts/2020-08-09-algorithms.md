@@ -3,7 +3,7 @@ title: "Algorithms and Data Structures Artifact"
 date: 2020-08-09
 tags: [algorithms, data structures, computer science, javascript, html]
 header:
-  image: "/images/slideshow1.png"
+  image: "/images/slideshow.png"
 excerpt: "Algorithms, Data Structures, Computer Science, JavaScript, HTML"
 ---
 
